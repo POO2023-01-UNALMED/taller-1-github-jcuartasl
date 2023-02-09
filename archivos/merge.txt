@@ -1,3 +1,9 @@
 Jonhatan Cuartas Londoño
 17 años
+
 Con esta asignatura espero ampliar mis conocimientos acerca de la programacion y todo lo que conlleva su funcionamiento, llegando asi a ser capaz de realizar programas mas complicados
+
+Con la ayuda de uno de los monitores pude realizar manualmente la configuracion de mi cuenta, y luego de esto pude realizar commits con facilidad
+
+Es peligroso realizar modificaciones dos archivos al mismo tiempo ya que pueden haber conflictos entre ambos y generar un error
+
